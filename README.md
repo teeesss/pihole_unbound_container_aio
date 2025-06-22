@@ -36,9 +36,9 @@ Before running the script, ensure your system meets the following requirements:
 
 1.  **Download the script:**
     ```bash
-    curl -O https://path/to/your/script/install.sh
+    curl -O [https://github.com/teeesss/pihole_unbound_container_aio/blob/main/install.sh](https://github.com/teeesss/pihole_unbound_container_aio/blob/main/install.sh)
     # Or wget
-    # wget https://path/to/your/script/install.sh
+    # wget [https://github.com/teeesss/pihole_unbound_container_aio/blob/main/install.sh](https://github.com/teeesss/pihole_unbound_container_aio/blob/main/install.sh)
     ```
 
 2.  **Make the script executable:**
