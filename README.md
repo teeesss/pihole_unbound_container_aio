@@ -30,7 +30,6 @@ Before running the script, ensure your system meets the following requirements:
 -   A Linux-based OS (tested on Debian/Ubuntu).
 -   `sudo` or root privileges.
 -   **Docker** and **Docker Compose** installed and running.
--   The following command-line tools: `curl`, `dig`, `systemctl`, and `jq`. The script will check for these and exit if they are not found.
 
 ## 🚀 Installation & Usage
 
