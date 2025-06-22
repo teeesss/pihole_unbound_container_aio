@@ -32,12 +32,13 @@ Before running the script, ensure your system meets the following requirements:
 -   **Docker** and **Docker Compose** installed and running.
 
 ## 🚀 Installation & Usage
-
 1.  **Download the script:**
     ```bash
     curl -O https://github.com/teeesss/pihole_unbound_container_aio/blob/main/install.sh
-    # Or wget
-    # wget https://github.com/teeesss/pihole_unbound_container_aio/blob/main/install.sh
+    ```
+    or
+    ```bash
+    wget https://github.com/teeesss/pihole_unbound_container_aio/blob/main/install.sh
     ```
 
 2.  **Make the script executable:**
