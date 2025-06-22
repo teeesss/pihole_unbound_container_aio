@@ -12,6 +12,7 @@ The script automates the entire setup process, from host preparation to containe
 -   **Production-Ready Configuration**: Creates a robust `docker-compose.yml` with health checks, persistent volumes, and secure settings.
 -   **Curated Adlists**: Comes with a strong, built-in set of default adlists to provide excellent block rates out of the box.
 -   **Bulk Import/Export**: Easily import and export your custom adlists and domain rules (allow/deny lists) from simple text files.
+-   **Self-Contained Dependencies**: Automatically installs `sqlite3` *inside the container* when needed for database operations, requiring no extra packages on the host.
 -   **Comprehensive Management**: The post-install menu includes tools to:
     -   Update the container to the latest version.
     -   View status and run diagnostics.
